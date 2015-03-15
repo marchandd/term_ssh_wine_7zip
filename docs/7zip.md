@@ -1,7 +1,7 @@
 Portability tested for 7-Zip Portable-app
 ===============================================
 
-Return to [details](https://github.com/marchandd/term_ssh_wine_antrenamer/blob/master/docs/summary.md "Summary")
+Return to [details](https://github.com/marchandd/term_ssh_wine_7zip/blob/master/docs/summary.md "Summary")
 
 Description
 -----------
