@@ -1,4 +1,4 @@
-FROM term_ssh_root_wine:latest
+FROM marchandd/term_ssh_root_wine:latest
 MAINTAINER Marchand D. https://github.com/marchandd/term_ssh_wine_7zip
 ENV VE_version="MarchandD_20150322_v01.03"
 # Copy install scripts from local to /usr/local/sbin
